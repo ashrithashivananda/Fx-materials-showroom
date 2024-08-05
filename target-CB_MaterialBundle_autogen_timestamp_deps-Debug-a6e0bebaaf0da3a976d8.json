@@ -1,0 +1,38 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"imports/ComponentBundles/MaterialBundle/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "CB_MaterialBundle_tooling::@82ceb79724bbf5de351a"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "CB_MaterialBundle_autogen_timestamp_deps::@82ceb79724bbf5de351a",
+	"isGeneratorProvided" : true,
+	"name" : "CB_MaterialBundle_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "imports/ComponentBundles/MaterialBundle",
+		"source" : "imports/ComponentBundles/MaterialBundle"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

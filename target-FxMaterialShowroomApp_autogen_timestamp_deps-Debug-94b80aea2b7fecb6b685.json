@@ -1,0 +1,58 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "FxMaterialShowroomApp_tooling::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "FxMaterialShowroomApp_qmlimportscan::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "CB_MaterialBundleplugin::@82ceb79724bbf5de351a"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "PocketDemoplugin::@396c3568c859ee729b08"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "QQS_Appplugin::@467dac7d6c3792bf8fb2"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "QQS_Componentsplugin::@92bfa96da900ff03600e"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "FxMaterialShowroomApp_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+	"isGeneratorProvided" : true,
+	"name" : "FxMaterialShowroomApp_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

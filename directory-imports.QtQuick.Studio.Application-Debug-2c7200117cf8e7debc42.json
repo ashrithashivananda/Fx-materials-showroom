@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "imports/QtQuick/Studio/Application",
+		"source" : "imports/QtQuick/Studio/Application"
+	}
+}

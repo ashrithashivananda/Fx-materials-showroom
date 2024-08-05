@@ -1,0 +1,38 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"imports/PocketDemo/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "PocketDemo_tooling::@396c3568c859ee729b08"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "PocketDemo_autogen_timestamp_deps::@396c3568c859ee729b08",
+	"isGeneratorProvided" : true,
+	"name" : "PocketDemo_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "imports/PocketDemo",
+		"source" : "imports/PocketDemo"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}
